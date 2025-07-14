@@ -17,4 +17,4 @@ I'm looking to grow as a **Frontend Developer** and collaborate on web projects 
 
 ### 🎓 Education:
 - 🎓 **IT Step Academy** – Web Development Program  
-- 🎓 **Ternopil Ivan Puluj National Technical University (TNTU)** – Bachelor's Degree
+- 🎓 **Ternopil Ivan Puluj National Technical University (TNTU)** – *Currently studying*
