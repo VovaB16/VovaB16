@@ -4,6 +4,6 @@ I'm a beginner web developer with a focus on frontend technologies. I love build
 
 ### 🔧 Tech Stack:
 - **Frontend:** React, CSS, HTML, JavaScript, Vite, Bootstrap, Tailwind CSS
-- **Backend (learning):** PostgreSQL, C#
+- **Backend (learning):** C#,  ASP.NET MVC
 
 ### 🎯 I'm looking to grow as a Frontend Developer and collaborate on web projects.
